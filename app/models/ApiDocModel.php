@@ -52,6 +52,7 @@ class ApiDocModel
 
     //Add useless property here
     private $abc = 0;
+
     /**
      * Configuration Content.
      * Example: $this->config_content[<config cache key>] = array(<content in config file>)
