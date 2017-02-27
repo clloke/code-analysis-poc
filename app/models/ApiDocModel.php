@@ -49,6 +49,9 @@ class ApiDocModel
     const CACHE_TAG     = 'api';
     const CACHE_MINUTES = 1440;
 
+
+    //Add useless property here
+    private $abc = 0;
     /**
      * Configuration Content.
      * Example: $this->config_content[<config cache key>] = array(<content in config file>)
