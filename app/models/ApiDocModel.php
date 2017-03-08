@@ -100,7 +100,7 @@ class ApiDocModel
      */
     public function __construct()
     {
-
+        $a = 123;
     }
 
     /**
