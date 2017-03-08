@@ -49,7 +49,9 @@ class ApiDocModel
     const CACHE_TAG     = 'api';
     const CACHE_MINUTES = 1440;
 
-    //I add comment here.
+
+    //Add useless property here
+    private $abc = 0;
 
     /**
      * Configuration Content.
@@ -100,7 +102,7 @@ class ApiDocModel
      */
     public function __construct()
     {
-
+         $a = 1;
     }
 
     /**
